@@ -1,0 +1,175 @@
+*/ {
+    font-color: white;
+}
+
+
+
+body {
+    background: url(/public/images/netflix-bg.jpg.jpeg);
+    /* background-size: cover; */
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-position:center; 
+    
+}
+header {
+
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    margin: 60 50px;
+
+} 
+.container{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+header div {
+    margin: 10px 50px;
+    /* color: red; */
+
+}
+.title {
+    font-style:sans-serif;
+
+
+}
+.header-btn{
+    margin-right: 8%;
+    margin: top 15px;
+}  
+/* 
+
+.title {
+    font-size: 30px;
+    color: red;
+}
+
+button {
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button:nth-child(2) {
+    background-color: red;
+    color: white;
+} */ 
+ /* body{
+    background: url(/public/images/netflix-bg.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-position:center;
+    position: absolute;
+    margin:0;
+    padding:0;
+    
+  
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.header-btn{
+    margin-right: 8%;
+    margin-top:28px;
+
+}
+
+button{
+    color:white;
+    
+} */
+/* .bi{
+    background-color:transparent;
+    border: 1px solid rgb(160,174,174);
+    width:120px;
+    height:35px;
+    margin-left:1100px;
+    margin-top:-60px;
+    position: absolute;
+    font-size: 15px;
+}
+#login{
+    font-size: 15px;
+    background-color: red;
+    border: 1px solid red;
+    width: 80px;
+    height:35px;
+    margin-top:-60px;
+    margin-left: 1240px;
+    position:absolute;
+    border-radius: 10px;
+    
+}
+img{
+    margin-top:24px;
+    margin-left:149px;
+    width:150px;
+
+
+}
+.content{
+    color:white;
+    width: 40vw;
+    height: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap:0px;
+}
+span{
+    margin: 131px;
+    margin-top: 0px;
+    font-family: Helvetica, sans-serif;
+    font-size: 63px;
+    text-align:center;
+    text-shadow: 0 1px 4px rgba(0,0,0,0,0.6);
+    
+}
+.email{
+      background:transparent ;
+      color: rgb(114, 117, 120);
+      border: 1px solid rgb(155, 159, 159);
+      border-radius: 10px;
+      width:25vw;
+      height: 4vw;
+      margin-left: -190px;
+      font-size: 20px;
+
+}
+
+.start{
+    background: linear-gradient(90deg, rgb(145, 11, 169), rgb(195, 44, 69));
+    border: none ;
+    width:13vw;
+    height:4vw;
+    border-radius: 30px;
+    margin-right: -385px;
+    margin-top: -60px;
+    font-size: 25px;
+}
+
+.first{
+    font-size: 20px;
+}
+
+.sec{
+    font-size: 20px;
+} */
